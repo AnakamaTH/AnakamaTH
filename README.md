@@ -1,4 +1,4 @@
-# Greetings.
+<h1 style="text-align: center;">Greetings</h1>
 I am Anakama. I make, batch scripts, speedruns and mods. 
 
 I mainly use Github for my coding projects and websites which are mostly private.
