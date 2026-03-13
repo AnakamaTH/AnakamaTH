@@ -1,7 +1,5 @@
 # Greetings
-I am Anakama. I make, batch scripts, speedruns and mods. 
-
-I mainly use Github for my coding projects and websites which are mostly private.
+I am Anakama. I make, batch scripts, speedruns and mods.
 
 I mostly code in: batch, HTML and CSS. (I *used* to code a bit in assembly, not anymore.)
 
