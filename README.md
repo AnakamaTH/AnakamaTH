@@ -1,4 +1,4 @@
-<h1 align="center">Greetings</h1>
+<h1 align="center">Greetings.</h1>
 I am Anakama. I make, batch scripts, speedruns and mods.
 
 I mostly code in: batch, HTML and CSS. (I *used* to code a bit in assembly, not anymore.)
