@@ -7,6 +7,6 @@ I mostly code in: batch, HTML and CSS. (I *used* to code a bit in assembly, not 
 ***
 
 <img align="center" src="https://raw.githubusercontent.com/anakamath/statistics/master/generated/overview.svg#gh-dark-mode-only"/>
-<img align="center" src="https://raw.githubusercontent.com/anakamath/statistics/master/generated/overview.svg#gh-light-mode-only"/>
 <img align="center" src="https://raw.githubusercontent.com/anakamath/statistics/master/generated/languages.svg#gh-dark-mode-only"/>
+<img align="center" src="https://raw.githubusercontent.com/anakamath/statistics/master/generated/overview.svg#gh-light-mode-only"/>
 <img align="center" src="https://raw.githubusercontent.com/anakamath/statistics/master/generated/languages.svg#gh-light-mode-only"/>
